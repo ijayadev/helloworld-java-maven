@@ -49,5 +49,5 @@
         <name>snapshot softx</name>
         <url>http://18.222.126.161:8083/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
-</distributionManagement
+</distributionManagement>
 </project>
