@@ -4,7 +4,7 @@
   <groupId>com.scmgalaxy.mavensample</groupId>
   <artifactId>yoodle</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>5.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -47,7 +47,7 @@
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://18.222.126.161:8083/nexus/content/repositories/snapshots/</url>
+        <url>http://18.222.126.161:8083/nexus/content/repositories/TecOps-SNAP/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
